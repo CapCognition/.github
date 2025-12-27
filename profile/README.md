@@ -15,7 +15,7 @@ It provides unified APIs for accessing USB, IP, and mobile cameras, and running 
 
 ### [.NET MAUI Samples](https://github.com/CapCognition/NetMaui-samples)
 
-### [CapCognition Licensing](https://github.com/CapCognition/CapCognition.Licensing)
+### [CapCognition Licensing](https://github.com/CapCognition/LicenceKeyGenerator)
 A lightweight license key generator for .NET — free to use in your own projects.
 
 ---
